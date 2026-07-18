@@ -1,4 +1,4 @@
-# EduZIP
+# An educational Deflate ZIP compressor implementation
 
 I. Project Overview
 
