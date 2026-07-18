@@ -2,7 +2,7 @@
 
 I. Project Overview
 
-This GCN-based recommendation system models user–drink interactions as a bipartite graph, employs multi-layer message passing to capture high-order latent relationships between nodes, and leverages vector similarity to accurately predict and recommend items that align with each user’s inferred preferences.
+Designed for high school students interested in data compression, this educational project offers a hands-on implementation of the Deflate algorithm. By focusing closely on the core concepts of LZ77 and Huffman coding, the project aims to help students bridge the gap between theoretical understanding and practical application.
 
 II. Development Environment
 - Programming Language: Python
