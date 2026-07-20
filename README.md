@@ -19,6 +19,3 @@ python main.py c <File to Compress>
 ```bash
 python main.py d <File to Decompress>
 ```
-IV. Suggestions
-
-In the current GCN architecture, because the network dimension is fixed, it is impossible to add new users or new drinks at any time. To add new nodes, GraphSAGE can be used instead. The model can learn the weights and calculate the embedding in real time without retraining the entire graph
