@@ -17,5 +17,5 @@ python main.py c <File to Compress>
 ```
 2. Decompress a file
 ```bash
-python main.py d <File to Decompress>
+python main.py d <File to Decompress> <Destination folder>
 ```
